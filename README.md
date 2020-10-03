@@ -1,4 +1,4 @@
-# CS-105-assignment
+# CS-105-super-awesome-partners-assignment
 
 Mary Bolling (mhb93)
 
