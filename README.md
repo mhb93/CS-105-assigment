@@ -74,3 +74,68 @@ Nothing really matters to me.
 
 Any way the wind blows...
 
+
+
+**Meet the Medic**
+Scout: "MOVE CYCLOPS MOVE, Come on come on come on!"
+[Demoman and Scout run, as Scout trips and falls to the ground] Scout:"WOAH WHAT THE FU-..."[gets hit by four missiles, landing him on the medic's glass wall] "Medic"
+["Meet the Medic" text appears]
+Heavy: "Wah-hahahaha"
+Medic: "Ven the patient voke up, his skeleton is missing, AND THE DOCTOR WAS NEVER HEARD FROM AGAIN!!!"
+[Medic laughs alone. Half a second later, Heavy laughs with him as he slaps his hand on a tray knocking away the tools on it.]
+Medic: "Anyvay that's how i lost my medical liscense... ARCHEMEDES, no! t's filtphy in there!,"[Looks at Heavy for a second] "ugh birds hehe"
+Medic: "Now, no heart can withstand this voltage, but i'm very certain your heart-"
+[Heavy's heart explodes, and the blood spashes on him and one of his birds, making his bird fall off the stand]
+Heavy: "What was noise?"
+Medic: "The sound of progress my friend."
+[Medic goes to his fridge.]
+Medic: "Ja, Perfect!"
+[Medic takes a mega baboon heart revealing a blue spy's head being connected to a potato and electrical meter.]
+Blue Spy: "Kill Me."
+Medic: "Later."
+[Closes fridge.]
+Medic: "Where was i?, There we go..." [Sticks heart onto a voltage meter. Places it to where the Medigun is pointing and the heart beats faster.]
+[The violin/string instrument in background gets faster in sync with the heart.]
+Medic: "HAHAHAHAHAHAHAHHAAHHAHAHAHA"
+Heavy: "Ha.. ha.."[Looks worried]
+Medic: "HAHAHAAHAHAHAHAAHAHAAHAHAHA"
+[A flash of light explodes revealing the screen.]
+(The big heart is ubercharged, as it glows red with red-orange glows that look like sillhouette cracks flowing.)
+Medic: "oooh that looks good. zhere"
+[Plops heart in Heavy's cavity.]
+Heavy: "Should I be awake for this?"
+Medic: "Heh, no. But, as long as you are could you open your ribcage for me? I can't seem to-"
+[As Medic tries to open up Heavy's ribcage, they hear a loud crack and Heavy screams and reveals a rib in his hand.]
+Heavy: "AHH!"
+Medic: "Aw, don't be such a baby, ribs grow back."
+[Medic takes the rib and throws it away. Turns around and talks to Archimedes or a dove.]
+Medic: "No zey don't."
+[Medic takes the mounted Medigun and brings it closer to Heavy. His organs and such all regenerate including his shirt and vest.]
+Heavy: [Inhales then exhales] "What now Doctor?"
+Medic: "Now?"[Chuckles while lifting Heavy up by the hands] "Let's go pwatice medicine."
+[As Medic dresses up and equips his tools, a drum plays in the background. He comes out of a door with shining light behind him and doves flying out.]
+[As Medic comes out, Heavy runs forward and Demoman rushes towards Medic in a wheelchair and wrapped in bandages.]
+Demoman: "MEDIC!"
+[Demoman gets hit with a rocket sending him flying and landing near Medic. Medic pushes his glasses up and flips some switches on the Medigun, then aims it at Demoman healing him. Demoman gets up whilst removing his cast and bandages. He then quickly nods at Medic and heads back towards battle. Medic sees another wounded person and aims his gun at him. Scout appears in the screen smiling and grows back a missing tooth.]
+Scout: "OH YEAH!"
+[Scout springs back up grabbing his baseball bat and runs. He hits a soldier with it around a corner.]
+[Heavy is hiding behind a rock with and an army of soldiers advancing towards him.]
+Heavy: “Doctor!” “Are you sure this will work!?”
+Medic: “Haha!” “I have no idea!”
+[Medic flips a switch, activating the Ubercharge.]
+[Heavy jumps out from behind a rock, and starts up his minigun.]
+[Ubercharge starts.]
+Heavy: “Yah! HAHA”
+[Heavy and Medic start walking up to the army of soldiers, Heavy still laughing]
+[Engineer and Sniper look over at Heavy and Medic]
+Heavy:”HAHAHA, I am bulletproof!”
+[Heavy and Medic stand atop a pile of deseased soldiers, as the music crescendos]
+[Team Fortress 2 closing music plays]
+[All the Mercenaries are waiting outside Medic’s office]
+[Engie playing guitar]
+Medic, Off-Screen:”That looks good, Very nice there.”
+Scout, Off-screen:”Hey, thanks Doc!”
+[Scout busts open the doors to the waiting room, all the mercs look over to him]
+Scout:”Aw man! You would not believe...how much this hurts.”
+[Archimedes coos from inside Scouts chest.]
+Medic: Archimedes?
