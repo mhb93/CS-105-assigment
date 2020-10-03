@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{gibberish}
+\author{mhb93 }
+\date{October 2020}
+
+\begin{document}
+
+\maketitle
+
+\section{I don't know anything about Latex
+}
+
+
+\end{document}
