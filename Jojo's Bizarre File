@@ -35,3 +35,66 @@ Like a Bloody Soul 燃やせLike a Bloody Star
 Like a Bloody Storm 熱くLike a Bloody Stone
 血脈に刻まれた因縁に
 浮き上がる消えない誇りの絆 握りしめて
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{gibberish}
+\author{mhb93 }
+\date{October 2020}
+
+\begin{document}
+
+\maketitle
+
+\section{[Verse 1]
+Shijima no soko kara
+Mezameru sono hashiratachi toki wo koe
+Shinku no chishio ga tachiagaru yuuki wo
+Hikiawaseru
+
+[Pre-Chorus 1]
+Uketsugu ai wo sadame to yobu nara
+Hohoemu me de tsugi no te wo
+
+[Chorus 1]
+Yami wo azamuite setsuna wo kawashite
+Yaiba surinuke yatsura no suki wo tsuke
+Tsuranuita omoi ga mirai wo hiraku
+Like a bloody storm, atsuku like a bloody stone
+Ketsumyaku ni kizamareta innen ni
+Ukiagaru kienai hokori no kizuna nigirishimete
+
+[Brass Solo]
+
+[Verse 2]
+Minagiru chikara ni uchitsukeru kodou wa akashi tomo no koe
+Nijinda itami to ima ikinuku imi wo kawashi nagara
+
+[Pre-Chorus 2]
+Omae no ishi ga yoake wo michibiku
+Mabayui hodo no kedakasa de
+
+[Chorus 2]
+Hikari sasu oka e shakunetsu no sora e
+Tamashii ga butsukariau tabiji e
+Kanashimi ni nurareta mirai wo sukue
+Like a bloody soul, moyase like a bloody star
+Honou saki kaze wo tachi sono saki e
+Osorezu ni nani mo tamerawazu susume nagare no naka
+
+[Bridge]
+Kyoumei suru unmei no hamon kokoro ni
+
+[Chorus 1]
+Yami wo azamuite setsuna wo kawashite
+Yaiba surinuke yatsura no suki wo tsuke
+Tsuranuita omoi ga mirai wo hiraku
+Like a bloody storm, atsuku like a bloody stone
+Ketsumyaku ni kizamareta innen ni
+Ukiagaru kienai hokori no kizuna nigirishimete
+}
+
+
+\end{document}
+
